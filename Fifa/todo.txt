@@ -1,0 +1,19 @@
+1. Most rated players based on overall and wages.
+
+2.Assess the strength of a team at a particular position
+
+calculating the overall wages of the team.
+
+3. Analyse the team with the best dribbling speed
+
+First calculate all th dribbling speed of the players group by 'Nationality'
+and then take the percentage
+
+
+
+4. Co-relate between Age and Overall rating
+
+5. Co-relate between Age and Nationality
+
+
+6. Co-relate between Age and Potential
